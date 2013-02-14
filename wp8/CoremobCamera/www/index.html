@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>CoreMob Camera</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <meta name="application-name" content="Coremob Camera"/>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=514, target-densitydpi=device-dpi" />
+    <!-- problem with WP8 WebView height. If I set height=device-height, it leaves a gap at the bottom. -->
+
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/swiper.css"/>
+  </head>
+  
+  <body>
+    <section id="loader" hidden="">Processing...</section>
+
+    <section id="main">
+      <header>
+        <h1>Coremob Camera</h1>
+      </header>
+
+
+      <section id="firstrun" class="thumb" hidden="">
+        <p>HTML5 ♥ PhoneGap.<br>See it in action!</p>
+        <div class="arrow-container"></div>
+      </section>
+
+      <section id="thumbnails">
+        <div class="thumbnail-wrapper">
+        </div>
+      </section>
+
+      <a style="position:fixed; bottom:50px; right:0; cursor:pointer; color:#aaa;" id="clearDB">Delete DB</a>
+
+      <nav>
+        <div id="capturePhoto" class="camera"><img src="img/camera.png"/></div>
+      </nav>
+    </section>
+
+    <!-- Gallery Carousel -->
+    <section id="singleView" hidden="">
+      <header>
+        <nav>
+          <a id="dismissSingleView" class="header-nav back icon" href="index.html"></a>
+          <div class="header-nav" href="index.html"><a id="shareButton" class="share text">Upload to W3C</a><span class="share icon"></span></div>
+        </nav>
+      </header>
+      <div class="swiper-container"></div>
+      <div class="pagination"></div>
+    </section>
+
+
+<!-- Photo Preview -->
+	<section id="photoEffect" hidden>
+		<div id="photoResultContainer">
+			<img id="originalPhoto" hidden>
+			<img id="resultPhoto">
+		</div>
+
+      <!-- Photo Effects Buttons -->
+      <nav id="filterDrawer" hidden="">
+        <!-- Filter Effects -->
+        <section id="filterButtons">
+          <div id="reset" class="filter">
+            <div class="filter-tag">Normal</div>
+          </div>
+          <div id="fluorescent" class="filter">
+            <div class="filter-tag">Fluorescent</div>
+          </div>
+          <div id="nostalgia" class="filter">
+            <div class="filter-tag">Nostalgia</div>
+          </div>
+          <div id="phykos" class="filter">
+            <div class="filter-tag">Phykos</div>
+          </div>
+          <div id="lotus" class="filter">
+            <div class="filter-tag">Lotus</div>
+          </div>
+          <div id="memphis" class="filter">
+            <div class="filter-tag">Memphis</div>
+          </div>
+          <div id="deutlich" class="filter">
+            <div class="filter-tag">Deutlich</div>
+          </div>
+          <div id="sumie" class="filter">
+            <div class="filter-tag">Sumie</div>
+          </div>
+          <div id="rockstar" class="filter">
+            <div class="filter-tag">Rock Star</div>
+          </div>
+        </section>
+
+        <!-- File Save and Upload -->
+        <form id="uploadForm" class="action-buttons" enctype="multipart/form-data" method="post" action="/upload">
+          <input type="button" value="Save in DB" id="saveButton">
+		</form>
+      </nav>
+    </section>
+    
+    <script type="text/javascript" src="cordova-2.3.0.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript">
+      app.initialize();
+    </script>
+    
+    <script defer="" src="js/util.js"></script>
+    <script defer="" src="js/iDB.js"></script>
+    <script defer="" src="js/swiper-1.7.js"></script>
+    <script defer="" src="js/photoCrop.js"></script>
+    <script defer="" src="js/photoFilter.js"></script>
+    <script defer="" src="js/effects.js"></script>
+    <script defer="" src="js/main.js"></script>
+  </body>
+</html>

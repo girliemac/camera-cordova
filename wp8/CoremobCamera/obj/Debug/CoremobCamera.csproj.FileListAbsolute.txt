@@ -1,0 +1,64 @@
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\ApplicationIcon.png
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\Background.png
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\CoremobCamera.dll
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\CoremobCamera.pdb
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\en-US\CoremobCamera.resources.dll
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\AppManifest.xaml
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\Bin\Debug\WPCordovaClassLib.dll
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.csprojResolveAssemblyReference.cache
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\App.g.cs
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\MainPage.g.cs
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.g.en-US.resources
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\en-US\CoremobCamera.resources.dll
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.dll
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.pdb
+c:\users\imura\documents\visual studio 2012\Projects\CoremobCamera\CoremobCamera\obj\Debug\XapCacheFile.xml
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\ApplicationIcon.png
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\Background.png
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\CoremobCamera.dll
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\CoremobCamera.pdb
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\en-US\CoremobCamera.resources.dll
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\AppManifest.xaml
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\Bin\Debug\WPCordovaClassLib.dll
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.csprojResolveAssemblyReference.cache
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\App.g.cs
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\MainPage.g.cs
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.g.en-US.resources
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\en-US\CoremobCamera.resources.dll
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.dll
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\CoremobCamera.pdb
+C:\Users\imura\Dropbox\Public\CoremobCamera\CoremobCamera\obj\Debug\XapCacheFile.xml
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\ApplicationIcon.png
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\Background.png
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\CoremobCamera.dll
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\CoremobCamera.pdb
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\en-US\CoremobCamera.resources.dll
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\AppManifest.xaml
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\WPCordovaClassLib.dll
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.csprojResolveAssemblyReference.cache
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\App.g.cs
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\MainPage.g.cs
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.g.en-US.resources
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\en-US\CoremobCamera.resources.dll
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.dll
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.pdb
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\imura\Dropbox\Public\camera\cordova\wp8\CoremobCamera\obj\Debug\XapCacheFile.xml
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\Background.png
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\ApplicationIcon.png
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\CoremobCamera.dll
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\CoremobCamera.pdb
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\en-US\CoremobCamera.resources.dll
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\AppManifest.xaml
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\Bin\Debug\WPCordovaClassLib.dll
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.csprojResolveAssemblyReference.cache
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\App.g.cs
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\MainPage.g.cs
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.g.en-US.resources
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\en-US\CoremobCamera.resources.dll
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.dll
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\CoremobCamera.pdb
+C:\Users\imura\Dropbox\Public\cordova\wp8\CoremobCamera\obj\Debug\XapCacheFile.xml
