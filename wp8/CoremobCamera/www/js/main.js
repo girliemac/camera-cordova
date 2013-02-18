@@ -481,7 +481,7 @@ var CoreMobCamera = (function() {
             options.params = params;
 
             var ft = new FileTransfer();
-            ft.upload(fileURL, encodeURI('http://88.120.37.14:3000/gallery'), uploadSuccess, uploadFail, options);
+            ft.upload(fileURL, encodeURI('http://mwcdemo.lan'), uploadSuccess, uploadFail, options);
 	    }
 	
 	    function uploadSuccess(r) {
