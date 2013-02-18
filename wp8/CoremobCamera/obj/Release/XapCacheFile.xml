@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\Bin\Release\CoremobCamera.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/9/2013 12:28:08 AM">
-  <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\obj\Release\CoremobCamera.dll" archivePath="CoremobCamera.dll" lastWriteTime="2/9/2013 12:28:07 AM" />
-  <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\obj\Release\en-US\CoremobCamera.resources.dll" archivePath="en-US\CoremobCamera.resources.dll" lastWriteTime="2/9/2013 12:28:07 AM" />
+﻿<xapCache source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\Bin\Release\CoremobCamera.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/9/2013 12:51:57 AM">
+  <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\obj\Release\CoremobCamera.dll" archivePath="CoremobCamera.dll" lastWriteTime="2/9/2013 12:51:56 AM" />
+  <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\obj\Release\en-US\CoremobCamera.resources.dll" archivePath="en-US\CoremobCamera.resources.dll" lastWriteTime="2/9/2013 12:51:57 AM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\CordovaLib\WPCordovaClassLib.dll" archivePath="CordovaLib\WPCordovaClassLib.dll" lastWriteTime="1/25/2013 4:06:19 AM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\cordova-2.3.0.js" archivePath="www\cordova-2.3.0.js" lastWriteTime="1/25/2013 4:06:19 AM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\css\style.css" archivePath="www\css\style.css" lastWriteTime="2/14/2013 9:48:26 PM" />
@@ -14,7 +14,7 @@
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\iDB.js" archivePath="www\js\iDB.js" lastWriteTime="2/14/2013 4:45:33 AM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="2/1/2013 10:17:33 PM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\index.html" archivePath="www\index.html" lastWriteTime="2/14/2013 9:46:55 PM" />
-  <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\main.js" archivePath="www\js\main.js" lastWriteTime="2/14/2013 9:53:31 PM" />
+  <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\main.js" archivePath="www\js\main.js" lastWriteTime="2/18/2013 10:30:09 PM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\photoCrop.js" archivePath="www\js\photoCrop.js" lastWriteTime="1/11/2013 8:10:17 AM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\photoFilter.js" archivePath="www\js\photoFilter.js" lastWriteTime="1/23/2013 10:31:01 PM" />
   <file source="C:\Users\imura\Dropbox\Public\camera-cordova\wp8\CoremobCamera\www\js\swiper-1.7.js" archivePath="www\js\swiper-1.7.js" lastWriteTime="1/23/2013 10:31:01 PM" />
